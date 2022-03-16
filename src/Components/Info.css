@@ -1,0 +1,100 @@
+.Information{
+    margin: 32px;
+}
+.smile{
+    display: inline-flex;
+    position: relative;
+   
+}
+.smile h2{
+    margin: 0;
+    font-weight: 900;
+}
+.smile .appointment{
+    margin-left: 179px;
+    position: absolute;
+    top: 9px;
+    width: 196px;
+}
+.smile .appointment .appoint{
+    text-decoration: none;
+    font-size: 20px;
+    background-color: black;
+    color: #ffffff;
+    padding: 6px 14px;
+    outline: none;
+    border-radius: 2px;
+    font-weight: 600;
+}
+.img1{
+    width: 100%;
+}
+.toot_selected{
+    font-family: 'Quicksand', sans-serif;
+}
+.span_selected{
+    font-weight: 700;
+}
+.incisor{
+    text-decoration: none;
+    margin-left: 10px;
+    color: darkgoldenrod;
+}
+.selected_again{
+    text-decoration: none;
+    margin-left: 10px;
+    color: aqua;
+}
+.incisors .number .inciso{
+    font-size: 21px;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+.incisors .number .num{
+    font-size: 13px;
+    color: #343232;
+}
+.contente .text{
+    font-size: 19px;
+    font-weight: 400;
+}
+.rules .h3{
+    font-size: 20px;
+    font-weight: 700;
+}
+.rules2 .lable{
+    display: inline-flex;
+    margin-left: 16px;
+}
+.lable label{
+    margin-top: 5px;
+    font-weight: 500;
+}
+.lable .ptag{
+    margin: 0;
+    padding-left: 12px;
+    font-size: 19px;
+    font-weight: 400;
+}
+.problem .h2tag{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.problem .problem_text{
+    margin-top: 0;
+    font-size: 20px;
+}
+.problem_img .similerimg{
+    width: 100%;
+    height: 265px;
+}
+.Know_solution{
+    text-decoration: none;
+    margin-left: 98px;
+    border: 1px solid black;
+    color: #ffffff;
+    background-color: black;
+    padding: 9px 24px;
+    font-size: 19px;
+    font-weight: 700;
+}
